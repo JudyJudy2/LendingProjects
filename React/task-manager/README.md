@@ -1,4 +1,4 @@
-# Task-manager is an app to help you track your tasks and plan them ahead!
+## Task-manager is an app to help you track your tasks and plan your day ahead!
 
 ## To start the react app
 ```
