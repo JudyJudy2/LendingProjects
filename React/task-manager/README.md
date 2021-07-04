@@ -8,3 +8,7 @@ npm run start
 ```
 npm run server
 ```
+## Build your project for the production
+```
+npm run build
+```
