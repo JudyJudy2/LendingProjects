@@ -1,9 +1,10 @@
-# Getting Started
+# Task-manager is an app to help you track your tasks and plan them ahead!
 
-## npm run start
+## To start the react app
 ```
-## to start the react app
+npm run start
 ```
-
-## npm run server
-to start the json server
+## To start the json server
+```
+npm run server
+```
