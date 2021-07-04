@@ -1,28 +1,10 @@
 {
   "tasks": [
     {
-      "text": "🌞 hello baby",
-      "day": "now",
-      "reminder": false,
-      "id": 1
-    },
-    {
       "text": "🌹It works!",
-      "day": "now",
+      "day": "Today",
       "reminder": false,
       "id": 2
-    },
-    {
-      "text": "🏊 Im swimmin' !",
-      "day": "",
-      "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "👙Nice Ass Tho",
-      "day": "hehe",
-      "reminder": true,
-      "id": 4
     }
   ]
 }
