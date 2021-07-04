@@ -1,10 +1,15 @@
 ## Task-manager is an app to help you track your tasks and plan your day ahead!
 
-## To start the react app
+## First off install all thed dependencies
+```
+npm install
+```
+
+## To start the react app - run
 ```
 npm run start
 ```
-## To start the json server
+## To start the json server in the separate terminal
 ```
 npm run server
 ```
